@@ -1,10 +1,11 @@
-html {
+body {
     border: 1px solid black;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
     background-color: lightblue;
+    display:block
   }
 
   p{
@@ -18,8 +19,7 @@ html {
     text-align: center;
 }
 #mainHeading{
-    color:red;
-    
+    color:red;   
 }
 
 .funParagraph {
