@@ -1,1 +1,42 @@
-/* Write your CSS here! */
+body {
+    border: 1px solid black;
+    margin: 8px;
+    background-color: lightblue;
+    display:block
+  }
+
+  p{
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+  }
+
+#titleOfPage{
+    text-align: center;
+}
+#mainHeading{
+    color:red;   
+}
+
+/* .funParagraph {
+    color:green;
+ } */
+
+ .centerImg {        
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+footer{
+  text-align: center;
+}
+
+div{
+  padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    color:green
+}
