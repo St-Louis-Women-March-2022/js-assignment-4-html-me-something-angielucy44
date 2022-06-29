@@ -1,7 +1,6 @@
 body {
     border: 1px solid black;
     margin: 8px;
-    
     background-color: lightblue;
     display:block
   }
@@ -20,9 +19,9 @@ body {
     color:red;   
 }
 
-.funParagraph {
+/* .funParagraph {
     color:green;
- }
+ } */
 
  .centerImg {        
   display:block;
@@ -32,4 +31,12 @@ body {
 
 footer{
   text-align: center;
+}
+
+div{
+  padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    color:green
 }
